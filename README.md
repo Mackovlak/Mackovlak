@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##About me
+## About me
 - My name  : Mac the gamer
 - Hobby    : Resercher (Just for fun)
 - Waifu    : Ayaka
+
+![MY Waifu](https://foto.kontan.co.id/eQpBGeMMmMkhHSwU5oO1RAn-Gjw=/smart/2021/07/15/2100661850p.jpg)
 
