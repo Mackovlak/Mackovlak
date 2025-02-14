@@ -1,5 +1,6 @@
 # Hi there 👋
-*  JUST DUMB PEOPLE TRYING TO LEARN ABOUT COMPUTER
+  I AM JUST STUPID PERSON TRY TO LEARN ABOUT COMPUTERS,
+  SO I HOPE SOMEONE CAN TEACH ME 😂
 <!--
 **Mackovlak/Mackovlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,21 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<kbd align="center">
+<img src="https://foto.kontan.co.id/eQpBGeMMmMkhHSwU5oO1RAn-Gjw=/smart/2021/07/15/2100661850p.jpg">
+</kbd>  
 
 ## About me
-- My name  : Mac the gamer
-- Hobby    : Thinking 
-- Waifu    : Ayaka
+  - 😄 My name  : Mac the gamer
+  - 📫 Hobby    : Thinking 
+  - ❤️ Waifu    : Ayaka  
+  - ⚡ <b>GitHub Trophy</b>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mackovlak)
+- 🌱 I’m currently learning  
+  ![Learn](https://skillicons.dev/icons?i=html,css,tailwind,js,php,nodejs,mysql,py,figma,vscode&theme=light)  
 
-<details>
-  <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-[![Mackovlak Github Stats](https://readme-stats.Mackovlak.com/api?username=Mackovlak&show_icons=true&count_private=true)](https://github.com/Mackovlak/github-readme-stats) 
-[![Top Language](https://readme-stats.Mackovlak.com/api/top-langs?username=Mackovlak&layout=compact)](https://github.com/Mackovlak/github-readme-stats)
-</details>
 
-<details>
-  <summary>&#9889 <b>GitHub Trophy</b></summary><br/>
-  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mackovlak)
-</details>
-![MY Waifu](https://foto.kontan.co.id/eQpBGeMMmMkhHSwU5oO1RAn-Gjw=/smart/2021/07/15/2100661850p.jpg)
+
+
+
+
 
