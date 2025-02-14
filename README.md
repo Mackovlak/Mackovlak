@@ -20,5 +20,15 @@ Here are some ideas to get you started:
 - Hobby    : Thinking 
 - Waifu    : Ayaka
 
+<details>
+  <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+[![Mackovlak Github Stats](https://readme-stats.Mackovlak.com/api?username=Mackovlak&show_icons=true&count_private=true)](https://github.com/Mackovlak/github-readme-stats) 
+[![Top Language](https://readme-stats.Mackovlak.com/api/top-langs?username=Mackovlak&layout=compact)](https://github.com/Mackovlak/github-readme-stats)
+</details>
+
+<details>
+  <summary>&#9889 <b>GitHub Trophy</b></summary><br/>
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mackovlak)
+</details>
 ![MY Waifu](https://foto.kontan.co.id/eQpBGeMMmMkhHSwU5oO1RAn-Gjw=/smart/2021/07/15/2100661850p.jpg)
 
