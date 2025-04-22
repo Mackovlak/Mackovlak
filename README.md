@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   - 😄 My name  : Mac the gamer
   - 📫 Hobby    : Thinking 
   - ❤️ Waifu    : Ayaka  
-  - ⚡ <b>GitHub Trophy</b>
+  # ⚡ <b>GitHub Trophy</b>
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mackovlak)
-- 🌱 I’m currently learning  
-  ![Learn](https://skillicons.dev/icons?i=html,css,tailwind,js,php,nodejs,mysql,py,figma,vscode&theme=light)  
+# 🌱 I’m currently learning  
+  ![Learn](https://skillicons.dev/icons?i=html,css,tailwind,js,php,nodejs,mysql,py,figma,vscode,react,next,prisma&theme=light)  
 
 
 
