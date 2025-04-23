@@ -15,18 +15,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<kbd align="center">
+<p align="center">
+  <kbd>
 <img src="https://foto.kontan.co.id/eQpBGeMMmMkhHSwU5oO1RAn-Gjw=/smart/2021/07/15/2100661850p.jpg">
-</kbd>  
+    </kbd>
+</p>  
 
-## About me
-  - 😄 My name  : Mac the gamer
-  - 📫 Hobby    : Thinking 
-  - ❤️ Waifu    : Ayaka  
-  # ⚡ <b>GitHub Trophy</b>
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mackovlak)
-# 🌱 I’m currently learning  
-  ![Learn](https://skillicons.dev/icons?i=html,css,tailwind,js,php,nodejs,mysql,py,figma,vscode,react,next,prisma&theme=light)  
+# About me
+  * 😄 My name  : Mac the gamer
+  * 📫 Hobby    : Thinking 
+  * ❤️ Waifu    : Ayaka  
+# ⚡ <b>GitHub Trophy</b>
+  <p align="center">
+  <kbd>
+<img src="https://github-profile-trophy.vercel.app/?username=Mackovlak&theme=onedark">
+    </kbd>
+</p>  
+
+# 🌱 I’m currently learning
+<p align="center">
+  <kbd>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,nodejs,mysql,py,figma,vscode,react,next,prisma&theme=dark">
+    </kbd>
+</p>  
+
+# 🚀 Stats
+<p align="center">
+  <kbd>
+<img src="https://github-readme-stats.vercel.app/api?username=Mackovlak&theme=onedark">
+    </kbd>
+</p>  
+
 
 
 
