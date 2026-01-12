@@ -25,12 +25,12 @@ Here are some ideas to get you started:
   * 😄 My name  : Mac the gamer
   * 📫 Hobby    : Thinking 
   * ❤️ Waifu    : Ayaka  
-# ⚡ <b>GitHub Trophy</b>
+<!-- # ⚡ <b>GitHub Trophy</b>
   <p align="center">
   <kbd>
 <img src="https://github-profile-trophy.vercel.app/?username=Mackovlak&theme=onedark">
     </kbd>
-</p>  
+</p> --> 
 
 # 🌱 I’m currently learning
 <p align="center">
@@ -39,12 +39,12 @@ Here are some ideas to get you started:
     </kbd>
 </p>  
 
-# 🚀 Stats
-<p align="center">
+<!-- # 🚀 Stats
+<p align="center"> 
   <kbd>
 <img src="https://github-readme-stats.vercel.app/api?username=Mackovlak&theme=onedark">
     </kbd>
-</p>  
+</p>  -->
 
 
 
